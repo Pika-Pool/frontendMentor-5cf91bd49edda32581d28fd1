@@ -1,7 +1,7 @@
 # Frontend Mentor - Intro component with sign up form
 
 ***Preview at*** :
-
+[https://intro-signup-form.pika-pool.vercel.app/](https://intro-signup-form.pika-pool.vercel.app/)
 
 <img src="./design/desktop-preview.jpg" width="500px">
 
